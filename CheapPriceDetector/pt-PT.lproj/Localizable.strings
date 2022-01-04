@@ -1,0 +1,76 @@
+/* 
+  Localizable.strings
+  CheapPriceDetector
+
+  Created by Grimm Dániel on 2021. 07. 31..
+  
+*/
+
+//SelectFlightVC
+"selectFlightVC_origin_airport" = "Partida de";
+"selectFlightVC_destination_airport" = "Destino";
+"selectFlightVC_airport_name_placeholder" = "Aeroporto";
+"selectFlightVC_airport_code_placeholder" = "CODIGO";
+"selectFlightVC_number_of_nights" = "Número das noites";
+"selectFlightVC_departure_date" = "Partida";
+"selectFlightVC_return_date" = "Regresso";
+"selectFlightVC_wdc_prices" = "Preços do Discount club";
+"selectFlightVC_search_flight_button" = "Pesquisar voos";
+"selectFlightVC_new_search_button" = "Nova pesquisa";
+"selectFlightVC_empty_result_title" = "Nenhum voo disponível";
+"selectFlightVC_empty_result_message" = "Infelizmente, não há voos disponíveis na rota atual, tente editar seus termos de pesquisa.";
+
+//ChooseAirportVC
+"chooseAirportVC_vc_title" = "Escolher Aeroporto";
+"chooseAirportVC_vc_search_placeholder" = "Pesquisar";
+"chooseAirportVC_vc_search_empty_result" = "Nenhum aeroporto encontrado que corresponda ao seu pedido de pesquisa.";
+
+//ShowSearchResultVC
+"showSearchResultVC_vc_title" = "Voos";
+"showSearchResultVC_outbound_route" = "Voo de outbound";
+"showSearchResultVC_return_route" = "Voo de return";
+"showSearchResultVC_travelling_period" = "Período de viagem";
+"showSearchResultVC_number_of_nights" = "Noites";
+"showSearchResultVC_total_price" = "Preço total";
+"showSearchResultVC_detailed_price" = "Preço detalhado";
+"showSearchResultVC_sort_title" = "Ordenar por:";
+"showSearchResultVC_sort_message" = "Selecione uma opção abaixo";
+"showSearchResultVC_sort_cancel" = "Cancelar";
+"showSearchResultVC_sort_price_asc" = "Preço - mais baixo primeiro";
+"showSearchResultVC_sort_price_desc" = "Preço - mais caro primeiro";
+"showSearchResultVC_sort_nights_asc" = "Noites - min primeiro";
+"showSearchResultVC_sort_nights_desc" = "Noites - max primeiro";
+"showSearchResultVC_sort_dates_earliest" = "Datas - mais cedo primeiro";
+"showSearchResultVC_sort_dates_latest" = "Datas - mais tarde primeiro";
+
+//WizzSiteWebVC
+"showSearchResultVC_wizz_site_lan" = "pt-pt";
+
+//ChooseAirportsOnMapVC
+"chooseAirportsOnMapVC_vc_title" = "Selecionar rotas";
+
+//MyFlightsVC
+"myFlightsVC_vc_title" = "Meus Voos";
+"myFlightsVC_delete_flight_prompt_title" = "Apagar Voo";
+"myFlightsVC_delete_flight_prompt_message" = "Tem certeza apagar este voo?";
+"myFlightsVC_delete_flight_delete" = "Apagar";
+"myFlightsVC_delete_flight_cancel" = "Cancelar";
+
+//SelectAirlineVC
+"selectAirlineVC_title" = "Selecionar companhia aérea";
+
+//AddMyFlightVC
+"addMyFlightVC_origin_airportLabel" = "PARTIDA DE";
+"addMyFlightVC_destination_airportLabel" = "DESTINO";
+"addMyFlightVC_origin_airport_placeholder" = "Aeroporto (CODIGO)";
+"addMyFlightVC_destination_airport_placeholder" = "Aeroporto (CODIGO)";
+"addMyFlightVC_journey_date_label" = "DATA DA VIAGEM";
+"addMyFlightVC_airline_label" = "COMPANHIA AÉREA";
+"addMyFlightVC_flight_number_label" = "NÚMERO DO VOO";
+"addMyFlightVC_save_flight_label" = "GUARDAR VIAGEM";
+"addMyFlightVC_fnumber_save" = "GUARDAR";
+"addMyFlightVC_fnumber_title" = "NÚMERO DO VOO";
+"addMyFlightVC_fnumber_message" = "Adicionar número do voo. (4 letras)";
+
+//ShowMyFlightsOnMapVC
+"showMyFlightsOnMapVC_title" = "Meus Voos";

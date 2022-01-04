@@ -1,0 +1,76 @@
+/*
+  Localizable.strings
+  CheapPriceDetector
+
+  Created by Grimm Dániel on 2021. 07. 31..
+  
+*/
+
+//SelectFlightVC
+"selectFlightVC_origin_airport" = "АЭРОПОРТ ВЫЛЕТА";
+"selectFlightVC_destination_airport" = "АЭРОПОРТ ПРИЛЕТА";
+"selectFlightVC_airport_name_placeholder" = "Аэропорт";
+"selectFlightVC_airport_code_placeholder" = "КОД";
+"selectFlightVC_number_of_nights" = "Выберите количество ночей";
+"selectFlightVC_departure_date" = "ДАТА ВЫЛЕТА";
+"selectFlightVC_return_date" = "ДАТА ВОЗВРАЩЕНИЯ";
+"selectFlightVC_wdc_prices" = "Цены дисконтного клуба";
+"selectFlightVC_search_flight_button" = "Поиск Полетов";
+"selectFlightVC_new_search_button" = "Новый Поиск";
+"selectFlightVC_empty_result_title" = "Рейсы не доступны";
+"selectFlightVC_empty_result_message" = "К сожелению по данному направлению нет доступных рейсов";
+
+//ChooseAirportVC
+"chooseAirportVC_vc_title" = "Выберите Аэропорт";
+"chooseAirportVC_vc_search_placeholder" = "Поиск";
+"chooseAirportVC_vc_search_empty_result" = "Аэропорту по вашему запросу не найдены.";
+
+//ShowSearchResultVC
+"showSearchResultVC_vc_title" = "Рейсы";
+"showSearchResultVC_outbound_route" = "Направление туда";
+"showSearchResultVC_return_route" = "Направление обратно";
+"showSearchResultVC_travelling_period" = "Период путешествия";
+"showSearchResultVC_number_of_nights" = "Ночи";
+"showSearchResultVC_total_price" = "Общая цена";
+"showSearchResultVC_detailed_price" = "Подробная цена";
+"showSearchResultVC_sort_title" = "Сортировать по:";
+"showSearchResultVC_sort_message" = "Пожалуйста, выберите один из вариантов ниже";
+"showSearchResultVC_sort_cancel" = "Отмента";
+"showSearchResultVC_sort_price_asc" = "Цена - сначала дешевые";
+"showSearchResultVC_sort_price_desc" = "Цена - сначала дорогие";
+"showSearchResultVC_sort_nights_asc" = "Ночи - с минимального";
+"showSearchResultVC_sort_nights_desc" = "Ночи - с максимального";
+"showSearchResultVC_sort_dates_earliest" = "Даты - сначала ранние";
+"showSearchResultVC_sort_dates_latest" = "Даты - сначала позже";
+
+//WizzSiteWebVC
+"showSearchResultVC_wizz_site_lan" = "ru-ru";
+
+//ChooseAirportsOnMapVC
+"chooseAirportsOnMapVC_vc_title" = "Выберите направления";
+
+//MyFlightsVC
+"myFlightsVC_vc_title" = "Мои Рейсы";
+"myFlightsVC_delete_flight_prompt_title" = "Удалить рейс";
+"myFlightsVC_delete_flight_prompt_message" = "Вы действительно хотите удалить этот рейс?";
+"myFlightsVC_delete_flight_delete" = "Удалить";
+"myFlightsVC_delete_flight_cancel" = "Отмена";
+
+//SelectAirlineVC
+"selectAirlineVC_title" = "Выберите авиалинию";
+
+//AddMyFlightVC
+"addMyFlightVC_origin_airportLabel" = "АЭРОПОРТ ВЫЛЕТА";
+"addMyFlightVC_destination_airportLabel" = "АЭРОПОРТ ПРИЛЕТА";
+"addMyFlightVC_origin_airport_placeholder" = "Аэропорт (КОД)";
+"addMyFlightVC_destination_airport_placeholder" = "Аэропорт (КОД)";
+"addMyFlightVC_journey_date_label" = "ДАТА ПОЛЕТА";
+"addMyFlightVC_airline_label" = "АВИАЛИНИЯ";
+"addMyFlightVC_flight_number_label" = "НОМЕР РЕЙСА";
+"addMyFlightVC_save_flight_label" = "Сохранить Рейс";
+"addMyFlightVC_fnumber_save" = "СОХРАНИТЬ";
+"addMyFlightVC_fnumber_title" = "НОМЕР РЕЙСА";
+"addMyFlightVC_fnumber_message" = "Добавьте номер рейса. (4 символа)";
+
+//ShowMyFlightsOnMapVC
+"showMyFlightsOnMapVC_title" = "Мои Рейсы";

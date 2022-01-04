@@ -1,0 +1,135 @@
+
+/* Class = "UILabel"; text = "10"; ObjectID = "5AK-YP-0gY"; */
+"5AK-YP-0gY.text" = "10";
+
+/* Class = "UILabel"; text = "Return route"; ObjectID = "6ST-eO-br7"; */
+"6ST-eO-br7.text" = "Return route";
+
+/* Class = "UIButton"; normalTitle = "Search Flights"; ObjectID = "73w-TP-VHY"; */
+"73w-TP-VHY.normalTitle" = "Search Flights";
+
+/* Class = "UILabel"; text = "Nights"; ObjectID = "8TF-JA-9b4"; */
+"8TF-JA-9b4.text" = "Nights";
+
+/* Class = "UILabel"; text = "DESTINATION AIRPORT"; ObjectID = "9ws-gN-G5z"; */
+"9ws-gN-G5z.text" = "DESTINATION AIRPORT";
+
+/* Class = "UILabel"; text = "Travelling period"; ObjectID = "At5-c3-AbC"; */
+"At5-c3-AbC.text" = "Travelling period";
+
+/* Class = "UILabel"; text = "2021. 07. 09 - 16:25 / 2021. 07. 19 - 16:25"; ObjectID = "BI9-cS-Hes"; */
+"BI9-cS-Hes.text" = "2021. 07. 09 - 16:25 / 2021. 07. 19 - 16:25";
+
+/* Class = "UILabel"; text = "Airport name (COD)"; ObjectID = "Buh-V8-vTJ"; */
+"Buh-V8-vTJ.text" = "Airport name (COD)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ClW-hV-vl5"; */
+"ClW-hV-vl5.text" = "Label";
+
+/* Class = "UILabel"; text = "N/A AIRWAYS"; ObjectID = "DNN-2g-Y0H"; */
+"DNN-2g-Y0H.text" = "N/A AIRWAYS";
+
+/* Class = "UILabel"; text = "29990 Ft"; ObjectID = "HIb-GW-vfG"; */
+"HIb-GW-vfG.text" = "29990 Ft";
+
+/* Class = "UILabel"; text = "AIRLINE"; ObjectID = "Ja0-t3-8JF"; */
+"Ja0-t3-8JF.text" = "AIRLINE";
+
+/* Class = "UILabel"; text = "JOURNEY DATE"; ObjectID = "JlR-D2-9jd"; */
+"JlR-D2-9jd.text" = "JOURNEY DATE";
+
+/* Class = "UILabel"; text = "DEPARTURE DATE"; ObjectID = "K05-rP-hfS"; */
+"K05-rP-hfS.text" = "DEPARTURE DATE";
+
+/* Class = "UILabel"; text = "Detailed price"; ObjectID = "L8G-ba-mCH"; */
+"L8G-ba-mCH.text" = "Detailed price";
+
+/* Class = "UILabel"; text = "19.99 EUR + 7640.0 HUF"; ObjectID = "Nis-jl-ZZL"; */
+"Nis-jl-ZZL.text" = "19.99 EUR + 7640.0 HUF";
+
+/* Class = "UIButton"; normalTitle = "Save Flight"; ObjectID = "PqY-Lg-CFa"; */
+"PqY-Lg-CFa.normalTitle" = "Save Flight";
+
+/* Class = "UILabel"; text = "Select number of nights"; ObjectID = "Q12-nM-8kX"; */
+"Q12-nM-8kX.text" = "Select number of nights";
+
+/* Class = "UILabel"; text = "FLIGHT NUMBER"; ObjectID = "QIT-4S-jVY"; */
+"QIT-4S-jVY.text" = "FLIGHT NUMBER";
+
+/* Class = "UILabel"; text = "Total price"; ObjectID = "TFT-C7-5cP"; */
+"TFT-C7-5cP.text" = "Total price";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TiE-Eq-Jrl"; */
+"TiE-Eq-Jrl.text" = "Label";
+
+/* Class = "UILabel"; text = "FNC / BUD"; ObjectID = "Uc2-Ya-FzG"; */
+"Uc2-Ya-FzG.text" = "FNC / BUD";
+
+/* Class = "UILabel"; text = "0000"; ObjectID = "Vha-fc-B1l"; */
+"Vha-fc-B1l.text" = "0000";
+
+/* Class = "UILabel"; text = "BUD / FNC"; ObjectID = "Wgz-oL-D01"; */
+"Wgz-oL-D01.text" = "BUD / FNC";
+
+/* Class = "UILabel"; text = "DESTINATION AIRPORT"; ObjectID = "ZuY-Ro-8AL"; */
+"ZuY-Ro-8AL.text" = "DESTINATION AIRPORT";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "b3x-Ww-KmI"; */
+"b3x-Ww-KmI.text" = "Label";
+
+/* Class = "UILabel"; text = "2022. 03. 12."; ObjectID = "cWs-zA-6fP"; */
+"cWs-zA-6fP.text" = "2022. 03. 12.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cpY-Ug-S9j"; */
+"cpY-Ug-S9j.text" = "Label";
+
+/* Class = "UILabel"; text = "Outbound route"; ObjectID = "dKw-Vc-LDT"; */
+"dKw-Vc-LDT.text" = "Outbound route";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fER-3S-oH0"; */
+"fER-3S-oH0.text" = "Label";
+
+/* Class = "UILabel"; text = "ORIGIN AIRPORT"; ObjectID = "fhI-wQ-dVC"; */
+"fhI-wQ-dVC.text" = "ORIGIN AIRPORT";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jDt-3F-3Be"; */
+"jDt-3F-3Be.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "New Search"; ObjectID = "k4W-Rc-YqV"; */
+"k4W-Rc-YqV.normalTitle" = "New Search";
+
+/* Class = "UILabel"; text = "Airport name (COD)"; ObjectID = "key-5w-Aad"; */
+"key-5w-Aad.text" = "Airport name (COD)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "n7B-Dm-7zr"; */
+"n7B-Dm-7zr.text" = "Label";
+
+/* Class = "UILabel"; text = "ORIGIN AIRPORT"; ObjectID = "o0V-eE-2TF"; */
+"o0V-eE-2TF.text" = "ORIGIN AIRPORT";
+
+/* Class = "UILabel"; text = "Airport name (COD)"; ObjectID = "rUj-ig-O3S"; */
+"rUj-ig-O3S.text" = "Airport name (COD)";
+
+/* Class = "UILabel"; text = "Airport name (COD)"; ObjectID = "rVV-c0-1C1"; */
+"rVV-c0-1C1.text" = "Airport name (COD)";
+
+/* Class = "UILabel"; text = "Discount club prices"; ObjectID = "rxH-nD-hHZ"; */
+"rxH-nD-hHZ.text" = "Discount club prices";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "s1p-5Y-xkh"; */
+"s1p-5Y-xkh.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sMe-mk-bJo"; */
+"sMe-mk-bJo.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "umj-ir-FCQ"; */
+"umj-ir-FCQ.text" = "Label";
+
+/* Class = "UILabel"; text = "2021. 07. 14."; ObjectID = "vKx-Rq-d4H"; */
+"vKx-Rq-d4H.text" = "2021. 07. 14.";
+
+/* Class = "UILabel"; text = "RETURN DATE"; ObjectID = "xmO-Xm-VOD"; */
+"xmO-Xm-VOD.text" = "RETURN DATE";
+
+/* Class = "UILabel"; text = "2021. 10. 14."; ObjectID = "y9S-tl-Sqa"; */
+"y9S-tl-Sqa.text" = "2021. 10. 14.";

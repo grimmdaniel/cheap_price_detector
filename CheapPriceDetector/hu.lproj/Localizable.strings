@@ -1,0 +1,76 @@
+/* 
+  Localizable.strings
+  CheapPriceDetector
+
+  Created by Grimm Dániel on 2021. 07. 31..
+  
+*/
+
+//SelectFlightVC
+"selectFlightVC_origin_airport" = "KIINDULÁSI REPÜLŐTÉR";
+"selectFlightVC_destination_airport" = "ÚTI CÉL";
+"selectFlightVC_airport_name_placeholder" = "Repülőtér";
+"selectFlightVC_airport_code_placeholder" = "KÓD";
+"selectFlightVC_number_of_nights" = "Éjszakák száma";
+"selectFlightVC_departure_date" = "INDULÁS";
+"selectFlightVC_return_date" = "VISSZAÚT";
+"selectFlightVC_wdc_prices" = "Discount club árak";
+"selectFlightVC_search_flight_button" = "Járatok keresése";
+"selectFlightVC_new_search_button" = "Új keresés";
+"selectFlightVC_empty_result_title" = "Járatok nem elérhetők";
+"selectFlightVC_empty_result_message" = "A megadott keresési feltételekkel nem találtunk járatokat, próbálja módosítani a keresési feltételeket.";
+
+//ChooseAirportVC
+"chooseAirportVC_vc_title" = "Repülőtér kiválasztása";
+"chooseAirportVC_vc_search_placeholder" = "Keresés";
+"chooseAirportVC_vc_search_empty_result" = "Nem található a keresésének megfelelő repülőtér.";
+
+//ShowSearchResultVC
+"showSearchResultVC_vc_title" = "Járatok";
+"showSearchResultVC_outbound_route" = "Outbound járat";
+"showSearchResultVC_return_route" = "Return járat";
+"showSearchResultVC_travelling_period" = "Utazási időszak";
+"showSearchResultVC_number_of_nights" = "Éjszakák";
+"showSearchResultVC_total_price" = "Teljes ár";
+"showSearchResultVC_detailed_price" = "Részletes ár";
+"showSearchResultVC_sort_title" = "Rendezés:";
+"showSearchResultVC_sort_message" = "Válasszon rendezési szempontot";
+"showSearchResultVC_sort_cancel" = "Mégse";
+"showSearchResultVC_sort_price_asc" = "Ár - legolcsóbb elől";
+"showSearchResultVC_sort_price_desc" = "Ár - legdrágább elől";
+"showSearchResultVC_sort_nights_asc" = "Éjszakák - legkevesebb elől";
+"showSearchResultVC_sort_nights_desc" = "Éjszakák - legtöbb elől";
+"showSearchResultVC_sort_dates_earliest" = "Dátum - legkorábbi elől";
+"showSearchResultVC_sort_dates_latest" = "Dátum - legkésőbbi elől";
+
+//WizzSiteWebVC
+"showSearchResultVC_wizz_site_lan" = "hu-hu";
+
+//ChooseAirportsOnMapVC
+"chooseAirportsOnMapVC_vc_title" = "Útvonal kiválasztása";
+
+//MyFlightsVC
+"myFlightsVC_vc_title" = "Járataim";
+"myFlightsVC_delete_flight_prompt_title" = "Járat törlése";
+"myFlightsVC_delete_flight_prompt_message" = "Valóban törölni szeretnéd ezt a járatot?";
+"myFlightsVC_delete_flight_delete" = "Törlés";
+"myFlightsVC_delete_flight_cancel" = "Mégsem";
+
+//SelectAirlineVC
+"selectAirlineVC_title" = "Légitársaság választása";
+
+//AddMyFlightVC
+"addMyFlightVC_origin_airportLabel" = "KIINDULÁSI REPÜLŐTÉR";
+"addMyFlightVC_destination_airportLabel" = "ÚTI CÉL";
+"addMyFlightVC_origin_airport_placeholder" = "Repülőtér (KÓD)";
+"addMyFlightVC_destination_airport_placeholder" = "Repülőtér (KÓD)";
+"addMyFlightVC_journey_date_label" = "UTAZÁS NAPJA";
+"addMyFlightVC_airline_label" = "LÉGITÁRSASÁG";
+"addMyFlightVC_flight_number_label" = "JÁRATSZÁM";
+"addMyFlightVC_save_flight_label" = "Utazás mentése";
+"addMyFlightVC_fnumber_save" = "MENTÉS";
+"addMyFlightVC_fnumber_title" = "JÁRATSZÁM";
+"addMyFlightVC_fnumber_message" = "Járatszám megadása. (4 karakter)";
+
+//ShowMyFlightsOnMapVC
+"showMyFlightsOnMapVC_title" = "Korábbi járataim";

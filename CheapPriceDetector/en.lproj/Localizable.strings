@@ -1,0 +1,76 @@
+/* 
+  Localizable.strings
+  CheapPriceDetector
+
+  Created by Grimm Dániel on 2021. 07. 31..
+  
+*/
+
+//SelectFlightVC
+"selectFlightVC_origin_airport" = "ORIGIN AIRPORT";
+"selectFlightVC_destination_airport" = "DESTINATION AIRPORT";
+"selectFlightVC_airport_name_placeholder" = "Airport";
+"selectFlightVC_airport_code_placeholder" = "COD";
+"selectFlightVC_number_of_nights" = "Select number of nights";
+"selectFlightVC_departure_date" = "DEPARTURE DATE";
+"selectFlightVC_return_date" = "RETURN DATE";
+"selectFlightVC_wdc_prices" = "Discount club prices";
+"selectFlightVC_search_flight_button" = "Search Flights";
+"selectFlightVC_new_search_button" = "New Search";
+"selectFlightVC_empty_result_title" = "No flights available";
+"selectFlightVC_empty_result_message" = "Unfortunately no flights are available at the current route, please try editing your search terms.";
+
+//ChooseAirportVC
+"chooseAirportVC_vc_title" = "Select Airport";
+"chooseAirportVC_vc_search_placeholder" = "Search";
+"chooseAirportVC_vc_search_empty_result" = "No airports were found matching your search request.";
+
+//ShowSearchResultVC
+"showSearchResultVC_vc_title" = "Flights";
+"showSearchResultVC_outbound_route" = "Outbound route";
+"showSearchResultVC_return_route" = "Return route";
+"showSearchResultVC_travelling_period" = "Travelling period";
+"showSearchResultVC_number_of_nights" = "Nights";
+"showSearchResultVC_total_price" = "Total price";
+"showSearchResultVC_detailed_price" = "Detailed price";
+"showSearchResultVC_sort_title" = "Sort by:";
+"showSearchResultVC_sort_message" = "Please select an option from below";
+"showSearchResultVC_sort_cancel" = "Cancel";
+"showSearchResultVC_sort_price_asc" = "Price - cheapest first";
+"showSearchResultVC_sort_price_desc" = "Price - most expensive first";
+"showSearchResultVC_sort_nights_asc" = "Nights - min first";
+"showSearchResultVC_sort_nights_desc" = "Nights - max first";
+"showSearchResultVC_sort_dates_earliest" = "Dates - earliest first";
+"showSearchResultVC_sort_dates_latest" = "Dates - latest first";
+
+//WizzSiteWebVC
+"showSearchResultVC_wizz_site_lan" = "en-gb";
+
+//ChooseAirportsOnMapVC
+"chooseAirportsOnMapVC_vc_title" = "Select routes";
+
+//MyFlightsVC
+"myFlightsVC_vc_title" = "My Flights";
+"myFlightsVC_delete_flight_prompt_title" = "Delete Flight";
+"myFlightsVC_delete_flight_prompt_message" = "Are you sure you want to delete this flight?";
+"myFlightsVC_delete_flight_delete" = "Delete";
+"myFlightsVC_delete_flight_cancel" = "Cancel";
+
+//SelectAirlineVC
+"selectAirlineVC_title" = "Select airline";
+
+//AddMyFlightVC
+"addMyFlightVC_origin_airportLabel" = "ORIGIN AIRPORT";
+"addMyFlightVC_destination_airportLabel" = "DESTINATION AIRPORT";
+"addMyFlightVC_origin_airport_placeholder" = "Airport (COD)";
+"addMyFlightVC_destination_airport_placeholder" = "Airport (COD)";
+"addMyFlightVC_journey_date_label" = "JOURNEY DATE";
+"addMyFlightVC_airline_label" = "AIRLINE";
+"addMyFlightVC_flight_number_label" = "FLIGHT NUMBER";
+"addMyFlightVC_save_flight_label" = "Save Flight";
+"addMyFlightVC_fnumber_save" = "SAVE";
+"addMyFlightVC_fnumber_title" = "FLIGHT NUMBER";
+"addMyFlightVC_fnumber_message" = "Add your flight number. (4 characters)";
+
+//ShowMyFlightsOnMapVC
+"showMyFlightsOnMapVC_title" = "My Flights";
